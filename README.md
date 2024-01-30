@@ -4,7 +4,7 @@
 <img src="https://www.dnd.fr/wp-content/uploads/2021/05/Hyv%C3%A4-Logo-300x300.jpg" alt="Hyva Themes Logo" height="30" style="max-width: 100%;">
 ![LARAVEL](https://avatars.githubusercontent.com/u/958072?s=40&v=4)
 ![FRONTITY](https://avatars.githubusercontent.com/u/36308514?s=40&v=4)
-<img src="https://camo.githubusercontent.com/96a4b6cf73090301d5c076316e85203e73a60dc15aa6819519d4b75919f44375/68747470733a2f2f6d6564762e696f2f6173736574732f6465706c6f7965722f6c6f676f2e706e67" alt="Deployer Logo" height="30" data-canonical-src="https://medv.io/assets/deployer/logo.png" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/96a4b6cf73090301d5c076316e85203e73a60dc15aa6819519d4b75919f44375/68747470733a2f2f6d6564762e696f2f6173736574732f6465706c6f7965722f6c6f676f2e706e67" alt="Deployer Logo" height="30" data-canonical-src="https://deployer.org/img/logo.svg" style="max-width: 100%;">
 
 I'm a freelance web developer focusing on e-commerce and web projects development, consultancy and extensions realization for Magento and related technologies.
 

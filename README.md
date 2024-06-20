@@ -1,10 +1,10 @@
 # Hi there, I'm Davide Lunardon! 👋
 
-![MAGENTO](https://avatars.githubusercontent.com/u/168457?s=40&v=4)
-<img src="https://www.dnd.fr/wp-content/uploads/2021/05/Hyv%C3%A4-Logo-300x300.jpg" alt="Hyva Themes Logo" height="30" style="max-width: 100%;">
-![LARAVEL](https://avatars.githubusercontent.com/u/958072?s=40&v=4)
-![FRONTITY](https://avatars.githubusercontent.com/u/36308514?s=40&v=4)
-<img src="https://deployer.org/img/logo.svg" alt="Deployer Logo" height="30" style="max-width: 100%;">
+<a href="https://github.com/magento" target="_blank">![MAGENTO](https://avatars.githubusercontent.com/u/168457?s=40&v=4)</a>
+<a href="https://www.hyva.io/suppliers#Italy" target="_blank"><img src="https://www.dnd.fr/wp-content/uploads/2021/05/Hyv%C3%A4-Logo-300x300.jpg" alt="Hyva Themes Logo" height="30" style="max-width: 100%;"></a>
+<a href="https://github.com/laravel/laravel" target="_blank">![LARAVEL](https://avatars.githubusercontent.com/u/958072?s=40&v=4)</a>
+<a href="https://github.com/frontity" target="_blank">![FRONTITY](https://avatars.githubusercontent.com/u/36308514?s=40&v=4)</a>
+<a href="https://github.com/deployphp/deployer" target="_blank"><img src="https://deployer.org/img/logo.svg" alt="Deployer Logo" height="30" style="max-width: 100%;"></a>
 
 I'm a freelance web developer focusing on e-commerce and web projects development, consultancy and extensions realization for Magento and related technologies.
 

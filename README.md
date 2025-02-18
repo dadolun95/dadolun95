@@ -8,7 +8,7 @@
 <a href="https://github.com/deployphp/deployer" target="_blank"><img src="https://deployer.org/img/logo.svg" alt="Deployer Logo" height="30" style="max-width: 100%;"></a>
 
 I'm a freelance web developer focusing on e-commerce and web projects development, consultancy and extensions realization for Magento and related technologies.
-I'm also a [Hyva supplier](https://www.hyva.io/suppliers#Italy), Mage-OS Community Member and Mage-OS Contributor.
+I'm also a [Hyva supplier](https://www.hyva.io/suppliers#Italy), Mage-OS Community Member and Contributor.
 
 ### 📬 Get in Touch
  - E-mail: dadolun@gmail.com

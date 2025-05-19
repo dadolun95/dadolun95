@@ -11,7 +11,7 @@ I'm a freelance web developer focusing on e-commerce and web projects developmen
 I'm also a [Hyva Bronze Partner](https://www.hyva.io/suppliers#Italy), [Mage-OS Community Member](https://mage-os.org/community/) and [Contributor](https://mage-os.org/updates/transforming-magento-the-power-of-community-contributions-and-innovation/).
 
 
-# My thoughts on the meaning of "opensource"
+## My thoughts on the meaning of "opensource"
 
 We are in an age where the Middle Ages as a concept is outdated no? 
 To speak of feudalism 2.0 is far-fetched but have you ever thought about how your behavior within society really matters? 

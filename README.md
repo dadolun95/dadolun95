@@ -8,7 +8,7 @@
 <a href="https://github.com/deployphp/deployer" target="_blank"><img src="https://deployer.org/img/logo.svg" alt="Deployer Logo" height="30" style="max-width: 100%;"></a>
 
 I'm a freelance web developer focusing on e-commerce and web projects development, consultancy and extensions realization for Magento and related technologies.
-I'm also a [Hyva Bronze Partner](https://www.hyva.io/suppliers#Italy), [Mage-OS Community Member](https://mage-os.org/community/) and [Contributor](https://mage-os.org/updates/revitalizing-magento-through-mage-os-and-smarter-frontend-design/).
+I'm also a [Hyva Bronze Partner](https://www.hyva.io/suppliers#Italy), [Mage-OS Community Member](https://mage-os.org/community/), [Contributor](https://mage-os.org/updates/revitalizing-magento-through-mage-os-and-smarter-frontend-design/),[Maintainer](https://github.com/mage-os/terraform/pull/123) and Ambassador.
 
 
 ## My thoughts on the meaning of "opensource"
